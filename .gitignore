@@ -1,0 +1,6 @@
+.DS_Store
+archive
+processed/*
+!processed/.gitkeep
+source/*
+!source/.gitkeep
